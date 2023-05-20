@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://yjyuwisely.github.io/yjyuportfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"></a>
   <a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7F00FF?style=for-the-badge"></a> 
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=ambient-gradient&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=flag-india&hide_border=true&border_radius=15)](https://git.io/streak-stats)
   
 <!-- <p align="center">
   <a href="https://github.com/yjyuwisely">
