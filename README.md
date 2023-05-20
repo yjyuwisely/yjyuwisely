@@ -29,11 +29,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=Figma&logoColor=white">  
 <br>
   <img src="https://img.shields.io/badge/spring-brightgreen?style=for-the-badge&logo=Spring Framework&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/r-blue?style=for-the-badge&logo=R&logoColor=white">
+<br>
+  <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=Figma&logoColor=white"> 
     
   ## 📬 How to reach me
   
