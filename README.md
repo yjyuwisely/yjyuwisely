@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
   <div align="center">
   
    #### ✨Full-stack developer✨
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
   ## 🌷Skills and Technologies🌷
   
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
   
   <a href="https://yjyuwisely.github.io/yjyuportfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"></a>
   <a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7F00FF?style=for-the-badge"></a> 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=ambient-gradient&hide_border=true&border_radius=15)](https://git.io/streak-stats)
   
 <!-- <p align="center">
   <a href="https://github.com/yjyuwisely">
