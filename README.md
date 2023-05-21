@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
   
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely👩‍💻 </li>
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, an joyful and delighted Full-stack developer👩‍💻 </li>
 <li> 🚀 Passionate about learning and exploring new technologies.</li>
 <li> 💞️ I have a strong passion for creating clean and intuitive user interfaces. </li>
 <li> 🐥 Currently, I'm focused on advancing my skills in web and app development, 
@@ -20,13 +20,8 @@ You can click the Preview link to take a look at your changes.
 
   <div align="center">
   
-   #### ✨Full-stack developer✨
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=buefy&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-  ## 🌷Skills and Technologies🌷
+  #
+  ### 🌷Skills and Technologies🌷
   
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -37,14 +32,35 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/r-blue?style=for-the-badge&logo=R&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=Figma&logoColor=white"> 
-    
-  ## 📬 How to reach me
   
+  #
+  ### 📬 Portfolio & Blog
+
   <a href="https://yjyuwisely.github.io/yjyuportfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"></a>
   <a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7F00FF?style=for-the-badge"></a> 
+  
+  <!-- 
+  <li><a href="https://yjyuwisely.github.io/yjyuportfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&style=flat"></a> Explore my portfolio in Korean to see my projects and work samples.</li>
+  <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7F00FF?style=for-the-badge&style=flat"></a> Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.</li><br>
+
+Portfolio (Korean) - Explore my portfolio in Korean to see my projects and work samples.
+Portfolio (English) - Check out my portfolio in English for an alternative language option.
+Tistory (Korean) - Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.
+-->
 <!-- <p align="center">
   <a href="https://github.com/yjyuwisely">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjyuwisely&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=JAVA" />
   </a>
 </p> -->
+
+ 
+  
+  #
+  
+  ### 🔥 GitHub Activity and Profile Visitors
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=buefy&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 </div>
