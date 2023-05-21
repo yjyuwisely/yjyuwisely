@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
   
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energized Full-stack developer👩‍💻 </li>
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised Full-stack developer👩‍💻 </li>
 <li> 🚀 Passionate about learning and exploring new technologies.</li>
 <li> 💞️ I have a strong passion for creating clean and intuitive user interfaces. </li>
 <li> 🐥 Currently, I'm focused on advancing my skills in web and app development, 
