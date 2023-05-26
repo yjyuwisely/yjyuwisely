@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 <li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised Full-stack developer👩‍💻 </li>
 <li> 🚀 Passionate about learning and exploring new technologies.</li>
 <li> 💞️ I have a strong passion for creating clean and intuitive user interfaces. </li>
-<li> 🐥 Currently, I'm focused on advancing my skills in web and app development, 
-  with a particular emphasis on React and React Native. </li>
+<li> 🐥 Currently, I'm focused on advancing my skills in app development, 
+  with a particular emphasis on Swift. </li>
 <li> 🌱 Continuously expanding my knowledge of software engineering principles 
   to enhance my overall development expertise.</li>
 <!-- - 💞️ I’m looking to collaborate on exciting projects that challenge me to grow as a developer. --> 
