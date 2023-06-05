@@ -34,14 +34,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=Figma&logoColor=white"> 
   
   #
-  ### 📬 Portfolio & Blog
-
-  <a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"></a>
-  <a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7F00FF?style=for-the-badge"></a> 
+  ### 📬 Portfolio & Blog </div>
+<!-- Currently they are both in Korean.<br> --> 
+  <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/My Portfolio-7F00FF?style=for-the-badge"></a> Explore my portfolio in Korean to see my projects. </li>
+  <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/My Tistory Blog-ff69b4?style=for-the-badge"></a> Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.</li>
   
   <!-- 
-  <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&style=flat"></a> Explore my portfolio in Korean to see my projects and work samples.</li>
-  <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-7F00FF?style=for-the-badge&style=flat"></a> Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.</li><br>
+  <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&style=flat"></a> Explore my portfolio in Korean to see my projects and work samples.</li>
+  <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff69b4?style=for-the-badge&style=flat"></a> Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.</li><br>
 
 Portfolio (Korean) - Explore my portfolio in Korean to see my projects and work samples.
 Portfolio (English) - Check out my portfolio in English for an alternative language option.
@@ -53,7 +53,7 @@ Tistory (Korean) - Read my blog posts in Korean on Tistory to learn more about m
   </a>
 </p> -->
 
- 
+   <div align="center">
   
   #
   
