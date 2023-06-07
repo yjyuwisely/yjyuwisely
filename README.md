@@ -52,7 +52,7 @@ Tistory (Korean) - Read my blog posts in Korean on Tistory to learn more about m
   
   #
   
-  ### 🔥 GitHub Activity <!-- and Profile Visitors -->
+  ### 🔥 GitHub Activity 🔥<!-- and Profile Visitors -->
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=buefy&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
