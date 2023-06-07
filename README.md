@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <li> 🌱 Continuously expanding my knowledge of software engineering principles 
   to enhance my overall development expertise.</li>
 <!-- - 💞️ I’m looking to collaborate on exciting projects that challenge me to grow as a developer. --> 
-
+  
   <div align="center">
   
   #
@@ -47,20 +47,23 @@ Portfolio (Korean) - Explore my portfolio in Korean to see my projects and work 
 Portfolio (English) - Check out my portfolio in English for an alternative language option.
 Tistory (Korean) - Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.
 -->
-<!-- <p align="center">
-  <a href="https://github.com/yjyuwisely">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjyuwisely&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=JAVA" />
-  </a>
-</p> -->
 
    <div align="center">
   
   #
   
-  ### 🔥 GitHub Activity and Profile Visitors
+  ### 🔥 GitHub Activity <!-- and Profile Visitors -->
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yjyuwisely&theme=buefy&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+ <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yjyuwisely)](https://github.com/anuraghazra/github-readme-stats) -->
+
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjyuwisely&theme=buefy&show_icons=true) -->
+
+  <a href="https://github.com/yjyuwisely">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjyuwisely&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=buefy" />
+  </a> 
+    
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
