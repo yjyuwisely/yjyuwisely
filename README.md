@@ -60,9 +60,9 @@ Tistory (Korean) - Read my blog posts in Korean on Tistory to learn more about m
 
  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjyuwisely&theme=buefy&show_icons=true) -->
 
-  <a href="https://github.com/yjyuwisely">
+<!-- <a href="https://github.com/yjyuwisely">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjyuwisely&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=buefy" />
-  </a> 
+  </a> -->
     
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyuwisely%2Fhit-counter&count_bg=%23FFD013&title_bg=%23C05EFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
