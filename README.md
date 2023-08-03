@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised software engineer👩‍💻 </li>
 <li> 🚀 Passionate about learning and exploring new technologies.</li>
 <!-- <li> 💞️ I have a strong passion for creating clean and intuitive user interfaces. </li> -->
-<li> 🐥 Currently, I'm advancing my skills in ML and DL as a hobby. </li>
+<li> 🐥 Currently, I'm advancing my skills in ML and DL. </li>
 <li> 🌱 Continuously expanding my knowledge of software engineering principles 
   to enhance my overall development expertise.</li>
 <!-- - 💞️ I’m looking to collaborate on exciting projects that challenge me to grow as a developer. --> 
