@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
   
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised software engineer👩‍💻 </li>
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI engineer👩‍💻 </li>
 <li> 🚀 Passionate about learning and exploring new technologies.</li>
 <!-- <li> 💞️ I have a strong passion for creating clean and intuitive user interfaces. </li> -->
 <li> 🐥 Currently, I'm advancing my skills in ML and DL. </li>
