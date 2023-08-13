@@ -9,11 +9,10 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
   
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI engineer with a deep love for Natural Language Processing (NLP)👩‍💻 </li>
-<li> 🚀 Passionate about learning and exploring new technologies, intrigued by the symbiotic relationship between language and technology</li>
-<li> 🐥 Currently, I'm advancing my skills in ML and DL, delving into advanced NLP projects, aiming to explore multilingual real-time translation technology.</li>
-<li> 🌱 Continuously expanding my knowledge of software engineering principles 
-  to enhance my overall development expertise.</li>
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI engineer with a deep love for Natural Language Processing (NLP)👩‍💻.</li>
+<li> 🚀 I'm passionate about learning and exploring new technologies and am particularly intrigued by the symbiotic relationship between language and technology.</li>
+<li> 🐥 Currently, I'm advancing my skills in ML and DL. I'm also delving into advanced NLP projects with a focus on exploring multilingual real-time translation technology.</li>
+<li> 🌱 I continuously expand my knowledge of software engineering principles to enhance my overall development expertise.</li>
   
   <div align="center">
   
