@@ -9,16 +9,18 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
   
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI engineer with a deep love for Natural Language Processing (NLP)👩‍💻.</li>
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI engineer with a deep love for Natural Language Processing (NLP) and its vast potentials 👩‍💻.</li>
+<li> 📘 While my roots are in statistical methodologies, I'm incredibly excited about the evolution and application of AI, especially in the NLP sector.</li>
 <li> 🚀 I'm passionate about learning and exploring new technologies and am particularly intrigued by the symbiotic relationship between language and technology.</li>
 <li> 🐥 Currently, I'm advancing my skills in ML and DL. I'm also delving into advanced NLP projects with a focus on exploring multilingual real-time translation technology.</li>
 <li> 🌱 I continuously expand my knowledge of software engineering principles to enhance my overall development expertise.</li>
+<li>🌟Let's shape the future together, one line of code at a time. Welcome to my AI-powered journey!😊</li>
   
   <div align="center">
   
   #
   ### 🌷Skills and Technologies🌷
-
+  <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/r-blue?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/spring-brightgreen?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -31,8 +33,8 @@ You can click the Preview link to take a look at your changes.
   #
   ### 📬 Portfolio & Blog </div>
 <!-- Currently they are both in Korean.<br> --> 
-  <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/My Portfolio-7F00FF?style=for-the-badge&style=flat"></a> Explore my portfolio in Korean to see my projects. </li>
-  <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/My Blog-ff69b4?style=for-the-badge&style=flat"></a> Read my blog posts in Korean on Tistory to learn more about my thoughts and experiences.</li>
+  <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/My Portfolio-7F00FF?style=for-the-badge&style=flat"></a> Explore my portfolio to see my projects. </li>
+  <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/My Blog-ff69b4?style=for-the-badge&style=flat"></a> Read my blog posts on Tistory, some of which are in Korean, to learn more about my thoughts and experiences.</li>
   
   <!-- 
   <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&style=flat"></a> Explore my portfolio in Korean to see my projects and work samples.</li>
