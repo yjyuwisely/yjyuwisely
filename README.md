@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
   
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI engineer with a deep love for Natural Language Processing (NLP) and its vast potentials 👩‍💻.</li>
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI research scientist with a deep love for Natural Language Processing (NLP) and its vast potentials 👩‍💻.</li>
 <li> 📘 While my roots are in statistical methodologies, I'm incredibly excited about the evolution and application of AI, especially in the NLP sector.</li>
 <li> 🚀 I'm passionate about learning and exploring new technologies and am particularly intrigued by the symbiotic relationship between language and technology.</li>
 <li> 🐥 Currently, I'm advancing my skills in ML and DL. I'm also delving into advanced NLP projects with a focus on exploring multilingual real-time translation technology.</li>
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   
   #
   ### 📬 Portfolio & Blog </div>
-  <li><a href="https://yjyuportfolio.vercel.app"><img src="https://img.shields.io/badge/My Portfolio-7F00FF?style=for-the-badge"></a> Explore my portfolio to see my projects.</li>
+  <li><a href="https://www.yeongjinyu.com"><img src="https://img.shields.io/badge/My Portfolio-7F00FF?style=for-the-badge"></a> Explore my portfolio to see my projects.</li>
   <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/My Blog-ff69b4?style=for-the-badge"></a> Read my blog posts on Tistory, some of which are in Korean, to learn more about my thoughts and experiences.</li>
   
   <!-- 
