@@ -8,13 +8,20 @@ You can click the Preview link to take a look at your changes.
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yeongjin%20Yu😊&fontSize=60)
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
-  
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI research scientist deeply engaged in the field of Natural Language Processing (NLP) and its vast potentials 👩‍💻.</li>
+
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI research scientist deeply engaged in the field of Computer Vision (CV) and its vast potentials 👩‍💻.</li>
+<li> 📘 While my roots lie in statistical methodologies, I'm incredibly excited about the evolution and application of AI, especially in the CV sector.</li>
+<li> 🚀 Passionate about learning and exploring new technologies, I'm currently focused on the transformative impact of Computer Vision in understanding and interpreting the visual world.</li>
+<li> 🐥 I'm advancing my skills in Machine Learning (ML) and Deep Learning (DL), with a particular interest in developing innovative Computer Vision projects.</li>
+<li> 🌱 Continuously expanding my software engineering knowledge, I aim to better support my AI research and development endeavors.</li>
+<li>🌟 Let's shape the future of AI in Computer Vision, one line of code at a time. Welcome to my AI-powered journey in CV!😊</li>
+
+<!-- <li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI research scientist deeply engaged in the field of Natural Language Processing (NLP) and its vast potentials 👩‍💻.</li>
 <li> 📘 While my roots lie in statistical methodologies, I'm incredibly excited about the evolution and application of AI, especially in the NLP sector.</li>
 <li> 🚀 Passionate about learning and exploring new technologies, I'm currently focused on the transformative impact of Natural Language Processing in understanding and interpreting human language.</li>
 <li> 🐥 I'm advancing my skills in Machine Learning (ML) and Deep Learning (DL), with a particular interest in developing innovative NLP projects.</li>
 <li> 🌱 Continuously expanding my software engineering knowledge, I aim to better support my AI research and development endeavors.</li>
-<li>🌟 Let's shape the future of AI in Natural Language Processing, one line of code at a time. Welcome to my AI-powered journey in NLP!😊</li>
+<li>🌟 Let's shape the future of AI in Natural Language Processing, one line of code at a time. Welcome to my AI-powered journey in NLP!😊</li> -->
   
   <div align="center">
   
