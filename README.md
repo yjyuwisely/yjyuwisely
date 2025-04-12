@@ -9,19 +9,12 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
 
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI research scientist deeply engaged in the field of Computer Vision (CV) and its vast potentials 👩‍💻.</li>
-<li> 📘 While my roots lie in statistical methodologies, I'm incredibly excited about the evolution and application of AI, especially in the CV sector.</li>
-<li> 🚀 Passionate about learning and exploring new technologies, I'm currently focused on the transformative impact of Computer Vision in understanding and interpreting the visual world.</li>
-<li> 🐥 I'm advancing my skills in Machine Learning (ML) and Deep Learning (DL), with a particular interest in developing innovative Computer Vision projects.</li>
-<li> 🌱 Continuously expanding my software engineering knowledge, I aim to better support my AI research and development endeavors.</li>
-<li>🌟 Let's shape the future of AI in Computer Vision, one line of code at a time. Welcome to my AI-powered journey in CV!😊</li>
-
-<!-- <li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a delighted and energised AI research scientist deeply engaged in the field of Natural Language Processing (NLP) and its vast potentials 👩‍💻.</li>
-<li> 📘 While my roots lie in statistical methodologies, I'm incredibly excited about the evolution and application of AI, especially in the NLP sector.</li>
-<li> 🚀 Passionate about learning and exploring new technologies, I'm currently focused on the transformative impact of Natural Language Processing in understanding and interpreting human language.</li>
-<li> 🐥 I'm advancing my skills in Machine Learning (ML) and Deep Learning (DL), with a particular interest in developing innovative NLP projects.</li>
-<li> 🌱 Continuously expanding my software engineering knowledge, I aim to better support my AI research and development endeavors.</li>
-<li>🌟 Let's shape the future of AI in Natural Language Processing, one line of code at a time. Welcome to my AI-powered journey in NLP!😊</li> -->
+<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a master’s student in data science with a strong interest in artificial intelligence, particularly Computer Vision (CV) 👩‍💻.</li>
+<li> 📘 My background in mathematics and statistics has inspired me to explore how AI can transform how we perceive and interact with the visual world.</li>
+<li> 🚀 I’m especially passionate about learning and applying machine learning and deep learning to solve real-world problems using CV technologies.</li>
+<li> 🐥 I am actively developing my skills through projects and self-directed research, with the long-term goal of becoming an AI research scientist.</li>
+<li> 🌱 I’m also expanding my software engineering knowledge to better support my development as a researcher and innovator.</li>
+<li>🌟 Join me on this journey into the world of AI and Computer Vision — one line of code at a time! 😊</li>
   
   <div align="center">
   
