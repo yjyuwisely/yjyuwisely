@@ -54,7 +54,7 @@ Tistory (Korean) - Read my blog posts in Korean on Tistory to learn more about m
   
  <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yjyuwisely)](https://github.com/anuraghazra/github-readme-stats) -->
 
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjyuwisely&theme=buefy&show_icons=true) -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjyuwisely&theme=buefy&show_icons=true) 
 
 <!-- <a href="https://github.com/yjyuwisely">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjyuwisely&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=buefy" />
