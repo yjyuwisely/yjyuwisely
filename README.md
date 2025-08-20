@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/figma-blueviolet?style=for-the-badge&logo=Figma&logoColor=white"> 
   
   #
-  ### 📬 Portfolio & Blog </div>
+  ### 📬 Portfolio <!-- & Blog --> </div>
   <li><a href="https://www.yeongjinyu.com"><img src="https://img.shields.io/badge/My Portfolio-7F00FF?style=for-the-badge"></a> Explore my portfolio to see my projects.</li>
   <!-- <li><a href="https://yjyuwisely.tistory.com/"><img src="https://img.shields.io/badge/My Blog-ff69b4?style=for-the-badge"></a> Read my blog posts on Tistory, some of which are in Korean, to learn more about my thoughts and experiences.</li> -->
   
