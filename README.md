@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
 
-<li>👋 Hi! I’m Yeongjin Yu (@yjyuwisely), a Statistician and Data Analyst with a Master’s degree in Mathematical Sciences.👩‍💻.</li>
+<li>👋 Hi! I’m Yeongjin Yu (@yjyuwisely), a Statistician and Data Analyst graduate with a Master’s degree in Mathematical Sciences.👩‍💻.</li>
 <li>📊 I specialise in statistical modelling, data analysis, and applied machine learning, with experience using Python, R, SQL, and modern data tools to extract insights from real-world datasets.</li>
 <li>🤖 My background in mathematics and statistics allows me to apply machine learning techniques — including computer vision and predictive modelling — in a rigorous, interpretable, and practical way.</li>
 <li>🚀 I am currently focused on building industry-ready data projects and gaining professional experience as a Statistician or Data Analyst in Australia.</li>
