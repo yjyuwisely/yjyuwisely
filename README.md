@@ -9,13 +9,14 @@ You can click the Preview link to take a look at your changes.
 
   ## Welcome to yjyuwisely's GitHub!🍀 </div>
 
-<li> 👋 Hello! I’m Yeongjin Yu, @yjyuwisely, a master’s student in data science with a strong interest in artificial intelligence, particularly Computer Vision (CV) 👩‍💻.</li>
-<li> 📘 My background in mathematics and statistics has inspired me to explore how AI can transform how we perceive and interact with the visual world.</li>
-<li> 🚀 I’m especially passionate about learning and applying machine learning and deep learning to solve real-world problems using CV technologies.</li>
-<li> 🐥 I am actively developing my skills through projects and self-directed research, with the long-term goal of becoming an AI research scientist.</li>
-<li> 🌱 I’m also expanding my software engineering knowledge to better support my development as a researcher and innovator.</li>
-<li>🌟 Join me on this journey into the world of AI and Computer Vision — one line of code at a time! 😊</li>
-  
+<li>👋 Hi! I’m Yeongjin Yu (@yjyuwisely), a Statistician and Data Analyst with a Master’s degree in Mathematical Sciences.👩‍💻.</li>
+<li>📊 I specialise in statistical modelling, data analysis, and applied machine learning, with experience using Python, R, SQL, and modern data tools to extract insights from real-world datasets.</li>
+<li>🤖 My background in mathematics and statistics allows me to apply machine learning techniques — including computer vision and predictive modelling — in a rigorous, interpretable, and practical way.</li>
+<li>🚀 I am currently focused on building industry-ready data projects and gaining professional experience as a Statistician or Data Analyst in Australia.</li>
+<li>🌱 Long-term, I aim to grow into advanced AI and research-oriented roles after establishing strong industry and analytical foundations.</li>
+<li>📈 I value clarity, evidence-based reasoning, and reproducible analysis.</li>
+<li>🌟 Join me on this journey into the world of AI — one line of code at a time! 😊</li>
+
   <div align="center">
   
   #
